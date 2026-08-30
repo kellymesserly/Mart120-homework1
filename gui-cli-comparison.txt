@@ -1,0 +1,4 @@
+According to the information shared in this weeks overview, Graphical User Interface (GUI) is used daily with the mouse to retrieve your directory in an organizational structure from clicking start or search and then documents. 
+Command Line Interface (CLI) is the most basic way to work with the computer. You can accomplish the same tasks through text command as you would with a mouse with GLI. 
+CLI has its advantages over GUI because its a quicker manipulation of files and directories. While using CLI, you also have a larger screen to work with.
+There are pro's and con's with both but using GLI over CLI is dependent on what the user is trying to accomplish within their directory.
